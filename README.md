@@ -1,3 +1,3 @@
 # Statistical-Hypothesis-Testing
 
-Test construction with \alpha 
+Test construction with $\alpha$
